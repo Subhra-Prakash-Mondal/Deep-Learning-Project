@@ -1,1 +1,1 @@
-# Deep-Learning-Project - -Pet Classification using CNN, Sentiment Analysis using NLP, Hand Written Digit Classification
+# Deep-Learning-Project - Pet Classification using CNN, Sentiment Analysis using NLP, Customer Churn dataset Using ANN, Potato-disease-classification-model-using-image-data-generator, Handwritten Digit classification
